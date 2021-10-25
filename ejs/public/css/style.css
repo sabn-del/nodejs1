@@ -1,0 +1,25 @@
+.navbar{
+    background-color: blue;
+}
+.navbar a{
+     color:white;
+ }
+ .btn1{
+    float: right;
+    width:80px;
+    
+ }
+ .aa{
+     align-items: center;
+     margin-left: auto;
+     margin-top: auto;
+ }
+ .text{
+     margin-left: 10%;
+ }
+ .submit{
+     margin-left:20%;
+ }
+
+
+ 
